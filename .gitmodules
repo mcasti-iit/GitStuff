@@ -1,0 +1,6 @@
+[submodule "REPO_A"]
+	path = REPO_A
+	url = https://github.com/mcasti-iit/REPO_A
+[submodule "REPO_B"]
+	path = REPO_B
+	url = https://github.com/mcasti-iit/REPO_B
